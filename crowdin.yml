@@ -1,0 +1,3 @@
+files:
+  - source: /Translations/en/*.ts
+    translation: /Languages/Translations/%two_letters_code%/%original_file_name%
